@@ -4,12 +4,12 @@ languages:
 - java
 products:
 - azure
-services: Cdn
-platforms: java
-author: yaohaizh
+extensions:
+- services: Cdn
+- platforms: java
 ---
 
-## Getting Started with Cdn - Manage Cdn - in Java ##
+# Getting Started with Cdn - Manage Cdn - in Java #
 
 
   Azure CDN sample for managing CDN profiles:
