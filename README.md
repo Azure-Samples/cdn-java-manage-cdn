@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Cdn
-- platforms: java
+description: "Azure CDN sample for managing CDN profiles. Create 8 web apps in 8 regions."
+urlFragment: cdn-java-manage-cdn
 ---
 
 # Getting Started with Cdn - Manage Cdn - in Java #
