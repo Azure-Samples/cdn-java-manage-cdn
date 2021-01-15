@@ -5,8 +5,8 @@ languages:
 products:
 - azure
 extensions:
-  services: Cdn
-  platforms: java
+- services: Cdn
+- platforms: java
 ---
 
 # Getting Started with Cdn - Manage Cdn - in Java #
